@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pagedjs_page {
+  margin: auto;
+  background-color: white;
+}
+
+@page {
+  size: A4;
+  margin: 12mm;
+}
+
+html,
+body,
+#root {
+  height: 100vh;
+}
