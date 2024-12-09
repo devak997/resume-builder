@@ -28,7 +28,7 @@
     "@commitlint/cli": "^19.6.0",
     "@commitlint/config-conventional": "^19.5.0",
     "@eslint/js": "^9.13.0",
-    "@tabler/icons-react": "^3.21.0",
+    "@tabler/icons-react": "^3.24.0",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react-swc": "^3.5.0",
